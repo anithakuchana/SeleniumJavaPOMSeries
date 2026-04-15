@@ -19,7 +19,7 @@
 				<class name="com.opencart.qa.tests.HomePageTest" />
 			</classes>
 	</test> 
-<!--	
+	
 	<test name="OpenCart Product Info Page Test : edge">
 		<parameter name="browser" value="edge" />
 			<classes>
@@ -32,7 +32,7 @@
 			<classes>
 				<class name="com.opencart.qa.tests.RegisterPageTest" />
 			</classes>
-	</test> -->
+	</test> 
 	
     
 </suite>
