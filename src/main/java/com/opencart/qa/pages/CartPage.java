@@ -9,6 +9,7 @@ public class CartPage {
 	public void addToCart() {
 		System.out.println(qty);
 		System.out.println("cart is updated ");
+		System.out.println("Test webhooks");
 	}
 	
 	
